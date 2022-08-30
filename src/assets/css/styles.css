@@ -1,0 +1,15 @@
+html, body {
+    background-color: rgb(226 232 240);
+    margin: 0;
+    font-family: Avenir, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.image-success-filter {
+    filter: drop-shadow(#17C964 0px 20px 53px);
+}
+
+.image-error-filter {
+    filter: drop-shadow(#F31260 0px 20px 53px);
+}
